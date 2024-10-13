@@ -1,0 +1,4 @@
+
+If getting error module not found for -en_core_web_sm
+
+spacy download en_core_web_sm # run this to download the file
